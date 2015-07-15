@@ -1,0 +1,656 @@
+Manifest-Version: 1.0
+Main-Class: wordprr
+Created-By: MainfestCreator.java
+
+Name: javax\activation\DataHandlerDataSource.class
+
+Name: META-INF\javamail.default.providers
+
+Name: rcword\tabconvert2.class
+
+Name: javax\mail\search
+
+Name: rcword\EMail$2.class
+
+Name: javax\mail\event\FolderEvent.class
+
+Name: javax\mail\internet\SharedInputStream.class
+
+Name: javax\activation\DataHandler$1.class
+
+Name: rcword\thistest.class
+
+Name: rcword\FileOperation.class
+
+Name: rcword\FileOperation.java
+
+Name: javax\mail\Session.class
+
+Name: rcword\ReplaceDialog.java
+
+Name: rcword\WordCount.java
+
+Name: rcword\MYcolor$ReplaceDialog.class
+
+Name: javax\mail\FolderClosedException.class
+
+Name: rcword\test.class
+
+Name: rcword\DateTimeEditor.class
+
+Name: rcword\EMail.class
+
+Name: javax\mail\Service.class
+
+Name: mailJar
+
+Name: rcword\DateTimeEditor$4.class
+
+Name: javax\mail\search\AddressStringTerm.class
+
+Name: rcword\MYcolor$11.class
+
+Name: right.gif
+
+Name: wordprr.java
+
+Name: javax\activation\CommandInfo.class
+
+Name: javax\mail\internet\ParameterList.class
+
+Name: javax\mail\UIDFolder.class
+
+Name: rcword\UndoAction.java
+
+Name: rcword\WordCount.class
+
+Name: javax\mail\internet\ContentDisposition.class
+
+Name: javax\mail\search\ReceivedDateTerm.class
+
+Name: javax\mail\EventQueue$QueueElement.class
+
+Name: rcword\WorkPanel.class
+
+Name: rcword\VerticalRuler.java
+
+Name: javax\mail\Provider$Type.class
+
+Name: strikethrough.gif
+
+Name: javax\mail\event\TransportEvent.class
+
+Name: undo.bmp
+
+Name: javax\activation\UnsupportedDataTypeException.class
+
+Name: rcword\ParagraphDialogE$1.class
+
+Name: rcword\Ruler.class
+
+Name: javax\mail\internet\MimePart.class
+
+Name: javax
+
+Name: javax\mail\IllegalWriteException.class
+
+Name: rcword\MYcolor$14.class
+
+Name: rcword\MYcolor$mycolor.class
+
+Name: javax\mail\Authenticator.class
+
+Name: javax\mail\Message$RecipientType.class
+
+Name: tha.gif
+
+Name: rcword\DateTimeEditor$EndAction.class
+
+Name: javax\mail\BodyPart.class
+
+Name: rcword\myItemListener.java
+
+Name: rcword\SmallToggleButton.java
+
+Name: rcword\FileProperty.class
+
+Name: tbold.gif
+
+Name: META-INF\mailcap.default
+
+Name: javax\mail\event\FolderAdapter.class
+
+Name: javax\activation\ActivationDataFlavor.class
+
+Name: left.gif
+
+Name: javax\mail\Part.class
+
+Name: javax\mail\event\MessageCountAdapter.class
+
+Name: rcword\MYcolor$5.class
+
+Name: rcword\EditAction.java
+
+Name: javax\mail\internet\ParseException.class
+
+Name: mailJar\activation.jar
+
+Name: rcword\Ruler.java
+
+Name: javax\mail\MethodNotSupportedException.class
+
+Name: rcword\MYcolor$1.class
+
+Name: javax\mail\event\ConnectionEvent.class
+
+Name: javax\mail\search\OrTerm.class
+
+Name: rcword\ParagraphDialogE$4.class
+
+Name: rcword\FileOperation$1.class
+
+Name: javax\mail\internet\ContentType.class
+
+Name: rcword\MYcolor$myItemListener.class
+
+Name: rcword\Table$1.class
+
+Name: javax\mail\Transport.class
+
+Name: javax\activation\DataSource.class
+
+Name: javax\mail\MultipartDataSource.class
+
+Name: javax\mail\Folder$1.class
+
+Name: javax\mail\Message.class
+
+Name: rcword\Tab.class
+
+Name: rcword\Numbering.class
+
+Name: javax\mail\event\ConnectionAdapter.class
+
+Name: rcword\EditAction.class
+
+Name: rcword\PageSetupDialog.class
+
+Name: javax\mail\Service$1.class
+
+Name: rcword\MYcolor$8.class
+
+Name: META-INF\javamail.default.address.map
+
+Name: tredo.gif
+
+Name: javax\mail\event\MailEvent.class
+
+Name: com
+
+Name: rcword\MYcolor$4.class
+
+Name: javax\mail\FetchProfile$Item.class
+
+Name: javax\mail\internet\matchEnum.class
+
+Name: javax\activation\MimeType.class
+
+Name: rcword\ParagraphDialog$2.class
+
+Name: javax\activation\MimetypesFileTypeMap.class
+
+Name: rcword\FileOperation$4.class
+
+Name: javax\mail\event\TransportListener.class
+
+Name: javax\mail\search\BodyTerm.class
+
+Name: META-INF\mimetypes.default
+
+Name: javax\mail\URLName.class
+
+Name: rcword\ColorDialog.java
+
+Name: rcword\MYcolor$PrintView.class
+
+Name: javax\mail\NoSuchProviderException.class
+
+Name: rcword
+
+Name: javax\mail\event\TransportAdapter.class
+
+Name: javax\mail\search\NotTerm.class
+
+Name: javax\mail\event\ConnectionListener.class
+
+Name: javax\mail\ReadOnlyFolderException.class
+
+Name: subscript.gif
+
+Name: javax\mail\internet\NewsAddress.class
+
+Name: javax\mail\search\AddressTerm.class
+
+Name: javax\mail\Address.class
+
+Name: tline.gif
+
+Name: javax\mail\event
+
+Name: javax\mail\internet\MimeMessage.class
+
+Name: rcword\ParagraphDialog.class
+
+Name: rcword\MYcolor$7.class
+
+Name: javax\mail\MessagingException.class
+
+Name: javax\mail\EventQueue.class
+
+Name: rcword\Sorter1.java
+
+Name: rcword\Tab$2.class
+
+Name: underline.gif
+
+Name: META-INF\javamail.address.map
+
+Name: rcword\DateTimeEditor$BeginAction.class
+
+Name: javax\mail\internet\MailDateParser.class
+
+Name: rcword\FileOperation$7.class
+
+Name: javax\mail\search\SearchException.class
+
+Name: rcword\SimpleFilter.class
+
+Name: javax\activation\MailcapCommandMap.class
+
+Name: rcword\MYcolor$UndoHandler.class
+
+Name: rcword\MYcolor$myAction.class
+
+Name: javax\mail\internet\AddressException.class
+
+Name: javax\mail\search\MessageNumberTerm.class
+
+Name: rcword\EMail$1.class
+
+Name: rcword\ParagraphDialog$1.class
+
+Name: rcword\Sorter.java
+
+Name: rcword\CaseDialog.class
+
+Name: rcword\Table$3.class
+
+Name: javax\activation\CommandObject.class
+
+Name: javax\mail\SendFailedException.class
+
+Name: javax\mail\Multipart.class
+
+Name: rcword\DateTimeEditor$7.class
+
+Name: javax\mail\search\FromTerm.class
+
+Name: mailJar\smtp.jar
+
+Name: javax\mail\PasswordAuthentication.class
+
+Name: mailJar\mailapi.jar
+
+Name: javax\mail\search\HeaderTerm.class
+
+Name: rcword\DateTimeEditor$3.class
+
+Name: rcword\myItemListener.class
+
+Name: rcword\SortPara.java
+
+Name: META-INF
+
+Name: rcword\ParagraphDialogE$ParagraphPreview.class
+
+Name: javax\mail\event\MessageChangedListener.class
+
+Name: rcword\MYcolor$10.class
+
+Name: javax\mail\internet\AsciiOutputStream.class
+
+Name: META-INF\mailcap
+
+Name: rcword\MYcolor$ColorDialog.class
+
+Name: rcword\Tab$1.class
+
+Name: rcword\SortParaList.class
+
+Name: rcword\tempSorter.java
+
+Name: rcword\ParagraphDialog$4.class
+
+Name: javax\mail\search\MessageIDTerm.class
+
+Name: javax\mail\internet\UniqueValue.class
+
+Name: rcword\SmallToggleButton.class
+
+Name: META-INF\javamail.charset.map
+
+Name: rcword\MYcolor.java
+
+Name: save.gif
+
+Name: javax\mail\event\FolderListener.class
+
+Name: javax\activation\DataContentHandler.class
+
+Name: javax\mail\UIDFolder$FetchProfileItem.class
+
+Name: javax\mail\search\RecipientTerm.class
+
+Name: javax\activation
+
+Name: rcword\MYcolor$UndoAction.class
+
+Name: rcword\DateTimeEditor$6.class
+
+Name: javax\mail\internet\MimeUtility$1$NullInputStream.class
+
+Name: javax\mail\Store.class
+
+Name: r.bat
+
+Name: javax\mail\event\StoreEvent.class
+
+Name: rcword\MYcolor$13.class
+
+Name: rcword\MYcolor.class
+
+Name: rcword\SortParaList.java
+
+Name: javax\mail\StoreClosedException.class
+
+Name: rcword\MYcolor$FileLoader.class
+
+Name: javax\mail\search\StringTerm.class
+
+Name: rcword\Sorter.class
+
+Name: bold.gif
+
+Name: rcword\SimpleFilter.java
+
+Name: open.gif
+
+Name: c.bat
+
+Name: javax\mail\Header.class
+
+Name: new.gif
+
+Name: superscript.gif
+
+Name: bull.bmp
+
+Name: rcword\UndoAction.class
+
+Name: rcword\MYcolor$pagesetupdialog.class
+
+Name: rcword\CaseDialog.java
+
+Name: javax\activation\ObjectDataContentHandler.class
+
+Name: rcword\EMail$3.class
+
+Name: javax\mail\Flags$Flag.class
+
+Name: paste.gif
+
+Name: rcword\DateTimeEditor$ForwardAction.class
+
+Name: rcword\Table.java
+
+Name: javax\mail\event\MessageCountEvent.class
+
+Name: rcword\Table$MyTableModel.class
+
+Name: mailJar\pop3.jar
+
+Name: javax\mail\internet\MimeUtility.class
+
+Name: javax\mail\internet
+
+Name: rcword\FileProperty.java
+
+Name: rcword\FileLoader.class
+
+Name: rcword\DateTimeEditor$UpDownAction.class
+
+Name: rcword\ParagraphDialogE$3.class
+
+Name: rcword\EMail.java
+
+Name: tundo.gif
+
+Name: javax\mail\search\SubjectTerm.class
+
+Name: rcword\Sorter1.class
+
+Name: rcword\MYcolor$RedoAction.class
+
+Name: javax\mail\search\RecipientStringTerm.class
+
+Name: rcword\ParagraphDialogE.java
+
+Name: rcword\draw2DObject.class
+
+Name: javax\mail\event\StoreListener.class
+
+Name: javax\mail\FolderNotFoundException.class
+
+Name: titalic.gif
+
+Name: rcword\tempSorter.class
+
+Name: javax\mail\Provider.class
+
+Name: javax\mail\event\MessageCountListener.class
+
+Name: ff.txt
+
+Name: rcword\MYcolor$3.class
+
+Name: rcword\FileOperation$3.class
+
+Name: rcword\RedoAction.class
+
+Name: javax\mail\MessageAware.class
+
+Name: center.gif
+
+Name: rcword\ParagraphDialogE$2.class
+
+Name: rcword\VerticalRuler.class
+
+Name: javax\activation\DataHandler.class
+
+Name: javax\activation\MimeTypeParseException.class
+
+Name: rcword\RedoAction.java
+
+Name: italic.gif
+
+Name: javax\mail\Folder.class
+
+Name: mailJar\mail.jar
+
+Name: javax\activation\MimeTypeParameterList.class
+
+Name: bull3.bmp
+
+Name: rcword\draw2DObject.java
+
+Name: rcword\MYcolor$FindDialog.class
+
+Name: javax\mail\search\IntegerComparisonTerm.class
+
+Name: rcword\ParagraphDialogE.class
+
+Name: cut.gif
+
+Name: rcword\ParagraphDialog$ParagraphPreview.class
+
+Name: javax\activation\DataContentHandlerFactory.class
+
+Name: META-INF\javamail.providers
+
+Name: bull22.gif
+
+Name: rcword\ParagraphDialog.java
+
+Name: rcword\MYcolor$6.class
+
+Name: META-INF\MANIFEST.MF
+
+Name: javax\mail\MessageRemovedException.class
+
+Name: rcword\Numbering.java
+
+Name: rcword\Tab.java
+
+Name: javax\mail\search\FromStringTerm.class
+
+Name: rcword\SortPara.class
+
+Name: rcword\PageSetupDialog.java
+
+Name: rcword\FileOperation$6.class
+
+Name: rcword\MYcolor$2.class
+
+Name: mailJar\imap.jar
+
+Name: javax\mail\search\SearchTerm.class
+
+Name: javax\mail\search\ComparisonTerm.class
+
+Name: rcword\FileOperation$2.class
+
+Name: rcword\Table$2.class
+
+Name: bull2.bmp
+
+Name: rcword\MYcolor$editAction.class
+
+Name: rcword\FindDialog.class
+
+Name: rcword\UndoHandler.java
+
+Name: javax\mail\internet\InternetHeaders.class
+
+Name: rcword\FileLoader.java
+
+Name: javax\mail\search\AndTerm.class
+
+Name: rcword\UndoHandler.class
+
+Name: javax\mail\search\FlagTerm.class
+
+Name: rcword\Bullets.java
+
+Name: rcword\MYcolor$fontListener.class
+
+Name: rcword\FindDialog.java
+
+Name: rcword\DateTimeEditor$2.class
+
+Name: rcword\saran.class
+
+Name: javax\mail\search\SentDateTerm.class
+
+Name: javax\mail\internet\MimeBodyPart.class
+
+Name: javax\activation\URLDataSource.class
+
+Name: javax\mail\AuthenticationFailedException.class
+
+Name: javax\mail\internet\HeaderTokenizer.class
+
+Name: javax\mail\internet\MailDateFormat.class
+
+Name: javax\mail\search\SizeTerm.class
+
+Name: rcword\MYcolor$9.class
+
+Name: rcword\PrintView.java
+
+Name: rcword\ReplaceDialog.class
+
+Name: javax\mail\MessageContext.class
+
+Name: javax\mail\Flags.class
+
+Name: com\sun
+
+Name: javax\mail\FetchProfile.class
+
+Name: javax\mail\event\MessageChangedEvent.class
+
+Name: tcolour.gif
+
+Name: rcword\ParagraphDialog$3.class
+
+Name: javax\mail\internet\MimeMultipart.class
+
+Name: rcword\FileOperation$5.class
+
+Name: javax\activation\CommandMap.class
+
+Name: rcword\Bullets.class
+
+Name: javax\activation\DataSourceDataContentHandler.class
+
+Name: javax\mail\internet\MimePartDataSource.class
+
+Name: rcword\PrintView.class
+
+Name: javax\mail\search\DateTerm.class
+
+Name: javax\activation\FileDataSource.class
+
+Name: javax\mail\internet\MimeMessage$RecipientType.class
+
+Name: copy.gif
+
+Name: rcword\tabconvert2.java
+
+Name: rcword\ColorDialog.class
+
+Name: rcword\Table.class
+
+Name: rcword\DateTimeEditor$5.class
+
+Name: javax\mail
+
+Name: rcword\DateTimeEditor$BackwardAction.class
+
+Name: rcword\WorkPanel.java
+
+Name: javax\mail\internet\HeaderTokenizer$Token.class
+
+Name: javax\activation\FileTypeMap.class
+
+Name: rcword\DateTimeEditor$1.class
+
+Name: javax\mail\internet\InternetAddress.class
+
+Name: rcword\MYcolor$12.class
+
+Name: javax\mail\internet\hdr.class
+
+Name: wordprr.class
+

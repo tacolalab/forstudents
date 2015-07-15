@@ -1,0 +1,88 @@
+HELP
+Sollaalar 1.0
+
+CONTENTS
+1. Adding styles to text
+2. Find/Replace
+3. Tab Stop Setting
+4. Formatting Paragraph
+5. Word Count
+6. Sorting
+7. Sending E-mail
+8. Setting User Interface Language
+9. Printing
+10. Getting Help for Sollaalar
+11. About Sollaalar
+
+
+1. ADDING STYLES TO TEXT
+	* Select the text you want to change
+	* Select the options you want in the format bar
+	* The attributes will be applied to the selected text
+if any, else for 
+the text to be typed
+
+2. FIND/REPLACE
+	* Press Ctrl-F for Find OR Ctrl-H for Replace
+	  On the "Edit" menu, click "Find/Replace"
+	* Enter the word to Find/Replace in specified Textbox
+	* Select the options you want(Match whole word/case,
+Search upwards/downwards)
+	* Click "Find" or "Replace" or "Replace all"
+
+3. TAB STOP SETTING
+	* Select the paragraphs for which you want to change
+the tab stops.
+	* On the "Format" menu, click "Tab stop".
+	* Select the options you want and click "Ok" 
+
+4. FORMATTING PARAGRAPH
+	* Select the paragraphs for which you want to change
+the paragraphs attributes.
+	* On the "Format" menu, click "Paragraph".
+	* Enter the "Space" and "Indent" as you need and
+choose the alignment.
+	* Select the options(space, indent, alingnment) you
+want and click "Ok" 
+
+5. WORD COUNT
+	This will give the number of words, characters and
+lines in the current document.
+	* On the "Tools" menu, click "Word Count".
+
+6. SORTING
+	Sorting can be applied to Tamil or English text
+alphabetically.
+	* Select the text in the current document which you
+want to sort.
+	* If there is no selection the entire document will
+be sorted.
+	* On the "Tools" menu, click "Sort".
+	* If the document contains Tamil and English text,
+then Tamil words are displayed first.
+
+7. SENDING E-MAIL
+	* Press Ctrl-M or
+	  On "File" menu, click "Email"
+	* Enter the SMTP server number on "Host" textfield
+	  Enter the From address, To addresses, subject and
+body in the corresponding fields
+	* For file attachment, Click "Attach" button and
+select the file you need to attach with the mail
+	* Click "Send" button to send the email.
+
+8. SETTING USER INTERFACE LANGUAGE
+	* Press F12  to change the language form English to
+Tamil and vice-versa.
+	* On the "Tools" Menu choose(click) the Language
+
+9. PRINTING
+	* Press Ctrl-P OR
+	  On the "File" menu, click "Print"
+
+10. GETTING HELP FOR WORD
+	* Press F1 OR
+	  On the "Help" menu, click "Word Help"
+
+11. ABOUT WORD
+	* On the "Help" menu, click "About Word"

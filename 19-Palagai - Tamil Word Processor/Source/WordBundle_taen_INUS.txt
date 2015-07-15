@@ -1,0 +1,155 @@
+	File					«è£ð¢¹/File
+	New  				¹î¤ò/New
+	Open	 			î¤ø/Open
+	Save  				«êñ¤/Sace
+	SaveAs				ñ£ø¢Áð¢ ªðòó¤ô¢ «êñ¤/Save As
+	PageSetup			ðè¢èÜ¬ñð¢¹/PaneSetup
+	Properties			ðí¢¹è÷¢/Properties
+	E-mail					ñ¤ù¢Üë¢êô¢/E-mail
+	Print				Üê¢ê®/Print
+	Exit					ªõ÷¤«òÁ/Exit
+	
+	Edit 					ªî£°/Edit
+	Undo 				Üö¤/Undo
+	Redo				ñÁð® ªêò¢/Redo
+	Cut					ªõì¢´/Cut
+	Copy				ïèô¢/Copy
+	Paste				åì¢´/Paste
+	SellectAll				Ü¬íî¢¬î»ñ¢ «îó¢ï¢ªî´/Sellect All
+	Find					èí¢´ð¤®/Find
+	Replace				ñ£ø¢Á/Replace
+	
+	View	 			ð£ó¢¬õ/View
+	Toolbar				è¼õ¤ð¢˜ðì¢¬ì/Toolbar
+	Formatbar			Ü¬ñð¢¹ð¢šðì¢¬ì/
+	Statusbar			ï¤¬ôð¢™ðì¢¬ì/
+	Ruler			Ü÷¾«è£ô¢
+	
+	Insert 	 			¸¬ö/
+	Picture				ðìñ¢/
+	
+	Format 				Ü¬ñð¢¹/
+	ChangeCase			ï¤¬ôšñ£ø¢Á/
+	Bullets				°ñ¤ö¢è÷¢/
+	Numbering			âí¢è÷¢/
+	TabStop				ï¤Áî¢î ï¤¬ô/
+	Paragraph			ðî¢î¤.../
+	
+	Tools				è¼õ¤è÷¢/
+	WordCount			ªê£ô¢¢ âí¢í¤è¢¬è/
+	Sort					õó¤¬êð¢ð´î¢¶/
+	English				îñ¤ö¢/
+	
+	Table				Üì¢ìõ¬í/
+	Draw				õ¬ó/
+	Insert				ªê¼°/
+	Delete				Üö¤/
+	
+	ColumnToTheLeft		ï¤ó½è¢° Þìð¢¹øñ¢/
+	ColumnToTheRight		ï¤ó½è¢° õôð¢¹øñ¢/
+	RowsAbove			ï¤¬óè¢° «ñô¢ðè¢èñ/¢
+	RowsBellow			ï¤¬óè¢° è¦ö¢ðè¢èñ¢/
+	Collumn				ï¤óô¢/
+	Row				ï¤¬ó/
+	
+	Window				ê£÷óñ¢/
+	Help   				àîõ¤/
+	Cancel				óî¢¶/
+	
+	Select				«îó¢ï¢ªî´/
+	FileName			«è£ð¢ð¤ù¢ ªðòó¢/
+	FileType			«è£ð¢ð¤ù¢ õ¬è/
+	RichTextFormat		RichTextFormat/ (*.rtf)
+	TextFiles				â¿î¢¶ «è£ð¢ðè÷¢/ (*.txt)
+	WebFiles				Þ¬íò «è£ð¢ðè÷¢/ (*.htm,*.html)
+	ImageFiles			ðìè¢«è£ð¢¹è÷¢/ (*.gif,*.jpg)
+	AllFiles(*.*)			Ü¬ùî¢¶ «è£ð¢ðè÷¢ /
+	UpOneLevel			å¼ ð® ºù¢«ù/
+	Home				ªî£ìè¢èñ¢/
+	CreateNewFolder		¹î¤ò «è£ð¢¹î¢ ªî£°ð¢¹/
+	List					õó¤¬ê/
+	OpenSelectedFile		«îó¢ï¢ªî´î¢î «è£ð¢¬ð î¤ø/
+	SaveSelectedFile		«îó¢ï¢ªî´î¢î «è£ð¢¬ð «êñ¤/
+	AbortFileChooserDialog	Abort/
+
+	IncompatibleFileErr		ªð£¼ï¢î£î «è£ð¢¹ õ¬è./
+	FileOverwriteCon		«è£ð¢¹ ºù¢«ð à÷¢÷¶ Üîù¢ «ñô¢ â¿îõ£?/
+	NotSavedWar			«êñ¤è¢èõ¤ô¢¬ô. «êñ¤è¢èõ£?/
+	FileNotFound			File Not Foun/
+	
+	TextColor				â¿î¢¶ õí¢íñ¢/
+	BackGroundColor		ð¤ù¢¹ø õí¢íñ¢/
+	FontName				â¿î¢¶¼ ªðòó¢/
+	FontSize	 			â¿î¢¶¼ Ü÷¾/
+	Bold					î®î¢î/
+	Italic				ê£ò¢ï¢¢î/
+	Underline				Ü®è¢«è£´/
+	Subscript				è¦ö¢ åì¢´/
+	Superscript			«ñô¢ åì¢´/
+	StrikeThrough			Strike Through/
+	
+	AlignLeft				Þì å¿é¢è¬ñ¾/
+	AlignCenter			ï´ å¿é¢è¬ñ¾/
+	AlignRight				õô å¿é¢è¬ñ¾/
+	
+	WholeWord			º¿ õ£ó¢î¢¬î/
+	Case				â¿î¢¶¼ ï¤¬ô/
+	Up					«ñô¢«ï£è¢è¤/
+	Down				è¦ö¢«ï£è¢è¤/
+	FindWhatLabel			«î´ñ¢ õ£ó¢î¢¬î/
+	ReplaceWithLabel		Þð¢ð® ñ£ø¢Á/
+	FindNext				Ü´î¢î¬î «î´/
+	ReplaceWithLabel		Þð¢ð® ñ£ø¢Á/
+	DirectionAndCase		î¤¬ê ñø¢Áñ¢ ï¤¬ô:/
+	ReplaceAll			Ü¬íî¢¬î»ñ¢ ñ£ø¢Á/
+	Change				ñ£ø¢Á/
+	FinishedSearching		«îìô¢ º®ï¢¶õ¤ì¢ì¶./
+
+	
+	Host					Host/
+	From				õ¤´ïó¢/
+	To					ªðÁïó¢/
+	Cc					ïèô¢/
+	Bcc					ñ¬ø ïèô¢/
+	Attach				Þ¬íð¢¹/
+	Subject				ªð£¼÷¢/
+	Send				ÜÂð¢¹/
+	
+	TabStop				ï¤Áî¢î ï¤¬ô/
+	Clear				Üö¤/
+	ClearAll				Ü¬ùî¢¬î»ñ¢ Üö¤/
+	Set					ªð£¼î¢¶/
+	Left					Þì¶/
+	Right				õô¶/
+	Decimal				¹÷¢¢÷¤/
+	Center				ï´/
+	Bar					âô¢¬ô/
+	None				1.ªõø¢Á/
+	DefaultTabStop		ï¤Áî¢î ï¤¬ô âô¢¬ô:/
+	Alignment				å¿é¢è¬ñ¾/
+	Leader				ºù¢ù¤ìñ¢/
+	
+	Space				Þ¬ìªõ÷¤/
+	Indent				õ¤÷¤ñ¢¹ ªõì¢´/
+	LineSpacing			õó¤/
+	SpaceAbove			«ñô¢/
+	SpaceBelow			è¦ö¢/
+	FirstIndent			ºîô¢ õó¤/
+	LeftIndent				Þì¶/
+	RightIndent			õô¶/
+	Preview				ºù¢ ð£ó¢¬õ/
+		
+	Statistics				¹÷¢÷¤ õ¤õóñ/¢
+	Words				õ£ó¢î¢¬îè÷¢/
+	Characters			â¿î¢¶è¢è÷¢/
+	Lines				õó¤è÷¢/
+	
+	Yes					Ýñ¢/
+	No					Þô¢¢¬ô/
+	Cancel				ï¦è¢°/
+	Ok					êó¤/
+	
+	MessageTitle			RCILTS - Word/
+	EatMailSent			è®îñ¢ ÜÂð¢¹îô¤ô¢ îõÁ./
+	FileCantSaveErr			«è£ð¢¬ð «êñ¤è¢è º®òõ¤ô¢¢¬ô./
+	PrintingCompleted			Üê¢ê®î¢îô¢ º®ï¢î¶./
