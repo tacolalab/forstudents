@@ -1,0 +1,4 @@
+Ю¬нтсў=/KBInternet.txt,Internet_starters.txt,Internet_techterms.txt/
+с¤щўкЈусў=/KBElectricity.txt,Electricity_starters.txt,Electricity_techterms.txt/
+
+их¤¬о=/KBkavithai.txt,kavithai_techterms.txt,kavithai_starters.txt/
