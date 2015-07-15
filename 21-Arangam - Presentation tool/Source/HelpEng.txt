@@ -1,0 +1,89 @@
+HELP
+Arangam 1.0
+
+CONTENTS
+
+1. INSERT A NEW SLIDE
+2. APPLY BACKGROUND FOR SLIDE
+3. INSERT A PICTURE
+4. INSERT A TEXTBOX
+5. ADDING STYLES TO TEXT
+6. INSERT A SHAPE
+7. FORMATING THE SHAPE
+8. DELETE A SLIDE
+9. FIND/REPLACE
+10. SLIDESHOW
+11. SETTING USER INTERFACE LANGUAGE
+12. PRINTING
+13. GETTING HELP FOR ARANGAM
+14. ABOUT ARANGAM
+
+1. INSERT A NEW SLIDE
+	A new slide can be inserted anywhere in the middle of the presentation OR appended to the last slide
+	Press Ctrl-M OR
+	On the "Actions" toolbar, click "New Slide" OR
+	On the "Insert" menu, click "New Slide"
+
+2. APPLY BACKGROUND FOR SLIDE
+	Click "Background" on the "Format" menu
+	Select the options you want
+	To apply the change to the current slide, click "Ok"
+	To apply the change to all slides, click "Apply to All"
+
+3. INSERT A PICTURE
+	Picture can be inserted from jpg and gif files
+	On the "Actions" toolbar, click "Picture" OR
+	On the "Insert" menu, click "Picture"
+	Locate the folder that contains the picture you want to insert
+	Choose the picture file
+
+4. INSERT A TEXTBOX
+	On the "Actions" toolbar, click "TextBox" OR
+	On the "Insert" menu, click "TextBox"
+
+5. ADDING STYLES TO TEXT
+	Select the text you want to change
+	On the "Format" menu, click "TextBox"
+	Select the options you want and Click "Ok"
+	The attributes will be applied to the selected text if any, else for the text to be typed
+
+6. INSERT A SHAPE
+	On the "Actions" toolbar, click "Shape" OR
+	On the "Insert" menu, point to "Shape" and choose(click) the Shape you want to insert
+
+7. FORMATING THE SHAPE
+	Select the "Shape" you want to Format
+	On the "Format" menu, click "Shape"
+	Select the options you want and Click "Ok"
+
+8. DELETE A SLIDE
+	Press Ctrl-D OR
+	On the "Edit" menu, click "Delete Slide"
+
+9. FIND/REPLACE
+	Press Ctrl-F OR
+	On the "Edit" menu, click "Find/Replace"
+	Enter the word to Find/Replace in specified Textbox
+	Select the options you want(Match whole word/case,Search upwards/downwards)
+	Click Find/Replace
+
+10. SLIDESHOW
+	Press F5 OR
+	On the "View Mode" toolbar, click "Slideshow" OR
+	On the "View" menu, click "Slideshow"
+	Press Esc to return to "Slide - View Mode"
+
+11. SETTING USER INTERFACE LANGUAGE
+	Press F9 - Tamil OR F8 - English OR F7 - Tamil/English OR
+	On the "Language" Menu choose(click) the Language you want - Tamil OR English OR Tamil/English
+
+12. PRINTING
+	Press Ctrl-P OR
+	On the "File" menu, click "Print"
+
+13. GETTING HELP FOR ARANGAM
+	Press F1 OR
+	On the "Help" menu, click "Arangam Help"
+
+14. ABOUT ARANGAM
+	On the "Help" menu, click "About Arangam"
